@@ -8,10 +8,10 @@ pipeline {
             }
         }
 
-        stage('Deploy to Apache') {
-    steps {
-        sh '''
-        cp index.html /var/www/html/index.html
-        '''
+        stage('Deploy') {
+            steps {
+                sh 'cp index.html /var/www/html/index.html'
+            }
+        }
     }
 }
