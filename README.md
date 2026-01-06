@@ -1,6 +1,6 @@
 # 🚀 CI/CD Pipeline Demo – Task 2
 
-![Jenkins Logo](https://cdn.worldvectorlogo.com/logos/jenkins-1.svg) ![GitHub Logo](https://cdn.worldvectorlogo.com/logos/github-icon-1.svg)
+![Jenkins] ![GitHub]
 
 ## 📌 Description
 This project demonstrates a **CI/CD pipeline using Jenkins**.  
