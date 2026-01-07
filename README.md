@@ -1,7 +1,5 @@
 # 🚀 CI/CD Pipeline Demo – Task 2
 
-![Jenkins] ![GitHub]
-
 ## 📌 Description
 This project demonstrates a **CI/CD pipeline using Jenkins**.  
 The pipeline automates **code checkout, build, test, and deployment**, showing how modern DevOps workflows operate in real projects.
@@ -23,4 +21,3 @@ The pipeline automates **code checkout, build, test, and deployment**, showing h
 
 ---
 
-## 📁 Project Structure
